@@ -1,0 +1,25 @@
+{	
+	"peo2":
+	{"ipv6": "fdac::04/128", "dev": "lo"},
+
+	"peo6":
+	{"ipv6": "fdac::05/128", "dev": "lo"},
+
+	"cro3":
+	{"ipv6": "fdac::02/128", "dev": "lo"},
+
+	"cro4":
+	{"ipv6": "fdac::03/128", "dev": "lo"},
+
+	"cro5":
+	{"ipv6": "fdac::01/128", "dev": "lo"},
+
+	"cer1":
+	{"ipv6": "fdac::06/128", "dev": "lo"},
+
+	"cer7":
+	{"ipv6": "fdac::07/128", "dev": "lo"},
+
+	"ctr8":
+	{"ipv6": "fdac::08/128", "dev": "lo"}
+}
