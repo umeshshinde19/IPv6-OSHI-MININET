@@ -5,7 +5,11 @@ This is an accademic Project, its aim is to introduce IPv6 in the MININET enviro
 2. To Compile json files with topology (addresses and routes)
 3. Remember that for now this support is valid for OSHI-EXAMPLE-PROJECT for OSHI environment
 
-### References
+### References 
 
  - [OSHI PROJECT](http://netgroup.uniroma2.it/OSHI/)  
- - [Dreamer-Mininet-Extensions](https://github.com/netgroup/Dreamer-Mininet-Extensions#dreamer-mininet-extensions)
+ - [Dreamer-Mininet-Extensions](https://github.com/netgroup/Dreamer-Mininet-Extensions#dreamer-mininet-extensions)  
+
+##### Authors
+ Mattia Quadrini - (mattiaquadrini@gmail.com)  
+ Marco Pantanella - (marco.pantanella@hotmail.it)
