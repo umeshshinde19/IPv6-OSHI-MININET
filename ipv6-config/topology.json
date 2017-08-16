@@ -1,0 +1,15 @@
+{
+	"counter":11,
+	"subnet0":"default",
+	"subnet1":{"network":"fd3c:9f20:5d73:01::","netmask":"/64"},
+	"subnet2":{"network":"fd3c:9f20:5d73:02::","netmask":"/64"},
+	"subnet3":{"network":"fd3c:9f20:5d73:03::","netmask":"/64"},
+	"subnet4":{"network":"fd3c:9f20:5d73:04::","netmask":"/64"},
+	"subnet5":{"network":"fd3c:9f20:5d73:05::","netmask":"/64"},
+	"subnet6":{"network":"fd3c:9f20:5d73:06::","netmask":"/64"},
+	"subnet7":{"network":"fd3c:9f20:5d73:07::","netmask":"/64"},
+	"subnet8":{"network":"fd3c:9f20:5d73:08::","netmask":"/64"},
+	"subnet9":{"network":"fd3c:9f20:5d73:09::","netmask":"/64"},
+	"subnet10":{"network":"fd3c:9f20:5d73:0a::","netmask":"/64"},
+	"subnet11":{"network":"fd3c:9f20:5d73:0b::","netmask":"/64"}
+}
