@@ -7,9 +7,7 @@ This is an accademic Project, its aim is to introduce IPv6 in the MININET enviro
 
 ### References 
 
- - [OSHI PROJECT](http://netgroup.uniroma2.it/OSHI/)  
- - [Dreamer-Mininet-Extensions](https://github.com/netgroup/Dreamer-Mininet-Extensions#dreamer-mininet-extensions)  
+ - [Umesh Shinde ](https://github.com/umeshshinde19)  
 
 ##### Authors
- Mattia Quadrini - (mattiaquadrini@gmail.com)  
- Marco Pantanella - (marco.pantanella@hotmail.it)
+ Umesh shinde - (umeshshinde850@gmail.com)  
