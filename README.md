@@ -13,6 +13,6 @@ This is an accademic Project, its aim is to introduce IPv6 in the MININET enviro
  Umesh shinde - (umeshshinde850@gmail.com)  
  
  ### Donate!
-Support the authors:
+Support the authors: Umesh Shinde
 
 <noscript><a href="https://liberapay.com/umeshshinde19/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
